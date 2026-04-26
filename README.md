@@ -10,7 +10,7 @@ Currently building real-world projects to develop practical experience in analyt
 
 ## 🌐 Connect With Me:
 
-https://v0-data-analyst-portfolio-gamma-five.vercel.app/
+[![vercel.app](https://v0-data-analyst-portfolio-gamma-five.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vhonani-mphoshomale-2a3a98177)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mphoshomalivhonani@gmail.com)
